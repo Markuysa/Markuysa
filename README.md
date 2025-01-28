@@ -22,6 +22,7 @@
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity)
-
+<div align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity)
+</div>
 
