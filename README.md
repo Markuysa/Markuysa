@@ -22,6 +22,6 @@
 </p>
 
 ---
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=Markuysa&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-        ![LeetCode Stats](https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity)
+
 
