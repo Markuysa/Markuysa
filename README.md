@@ -23,6 +23,6 @@
 
 ---
 <div align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity)
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Markuysa&layout=compact&theme=tokyonight](https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity)" />
 </div>
 
