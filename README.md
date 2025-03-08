@@ -21,8 +21,3 @@
   </a>
 </p>
 
----
-<div align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Markuysa?theme=dark&font=Roboto%20Mono&ext=activity" />
-</div>
-
